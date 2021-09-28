@@ -5,4 +5,4 @@ Bian
 Pablo
 Juanfe
 Daniel
-Franco re fumó el branch
+Franco se fumó el branch
