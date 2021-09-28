@@ -5,3 +5,6 @@ Bian
 Pablo
 Juanfe
 Daniel
+
+
+Terminamos este ejercicio de cambiar el readme antes de las 9, vamos bien.
