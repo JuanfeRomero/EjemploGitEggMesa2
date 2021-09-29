@@ -5,4 +5,9 @@ Bian
 Pablo
 Juanfe
 Daniel
+
+Terminamos este ejercicio de cambiar el readme antes de las 9, vamos bien.
+
+HOLA SOY JUANFE MIRA LO QUE ESCRIBO
+
 Franco se fumó el branch
